@@ -1,2 +1,2 @@
 # digimaker-dotnet
-digimaker's .NET library via GraphQL
+digimaker's .NET client library via GraphQL
